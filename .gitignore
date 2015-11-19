@@ -1,0 +1,23 @@
+otkit.properties
+native-sdk-x86
+native-sdk-arm
+android-sdk-webrtc.tar.bz2
+.gradle/
+build/
+.DS_Store
+*~
+bin/
+gen/
+obj/
+libs/
+xcuserdata
+local.properties
+junit-report.xml
+OpenTok-Android-SDK/opentok-android-sdk-webrtc/src/main/jni/ext/native-sdk-src/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+.userconfig
